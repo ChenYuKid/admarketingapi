@@ -1,5 +1,5 @@
 {
-    "name": "xingzhi/admarketingapi",
+    "name": "chenyu/admarketingapi",
     "description": "广告联盟平台的Marketing API开放接口的PHP SDK，支持今日头条巨量引擎和广点通 。",
     "keywords": [
         "OceanEngine",
@@ -9,7 +9,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "xingzhi",
+            "name": "chenyu",
             "email": "i@xingzhi.me"
         }
     ],
